@@ -45,7 +45,10 @@
 
 ## 安装
 
-1. 将此配置克隆到你的 `~/` 目录,后改名为`.config`
+1. 使用指令：
+  ```bash
+    git clone https://github.com/FallCicada0918/My_Neovim_Config.git ~/.config/nvim
+  ```
 2. 使用 `nvim` 命令启动 Neovim
 3. LazyVim 将在首次启动时自动安装所有插件
 
